@@ -18,8 +18,7 @@ class Graph{
     edges.add(e);
     
   }
-  
-  //static void isIn(ArrayList ) ...laziness
+
   
   void addVertexToExistingVertex(Vertex v_in_graph, Vertex v_to_add){
     // assuming that vertex exists in our graph
